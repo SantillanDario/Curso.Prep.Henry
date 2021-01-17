@@ -1,0 +1,16 @@
+Variables
+Una variable es como si fuera una caja vacia, donde podemos guardar distintos tipos de información, como números, texto y valores de verdad.
+
+String
+Un string puede ser solo una letra o una cadena de texto. Cuando asignamos un string a una variable, lo hacemos entre comillas simples o dobles.
+
+Funciones(argumentos, return)
+Las funciones sirven para reutilizar código y así evitar tener que escribirlo reiteradas veces. Para declararlas utilizamos la palabra reservada function, luego escribimos el nombre de nuestra función (tiene que ser un nombre que nos facilite saber que hace la función) seguido de apertura y cierre de paréntesis. A continuación abrimos corchetes y dentro de estos escribimos el código.
+Dentro de los paréntesis podemos agregar argumentos, que son variables de las cuales podremos utilizar dentro de la función.
+La palabra reservada return se utiliza para finalizar una función, además puede devolver o no un valor.
+
+Declaraciones if
+Por medio de una sentencia condicional, el controlador de flujo if ejecuta o no cierta porción de código dependiendo del valor de verdad que resulte de dicha sentencia.
+
+Valores booleanos
+Son los valores de verdad (verdadero o falso)

@@ -1,0 +1,11 @@
+For
+El bucle for consta de un indice, una condición y un incrementador. El codigo dentro del bucle se ejecutará hasta que la condicion deje de cumplirse, por lo que cada vez que vuelva a iniciarse el ciclo el indicé irá aumentando su valor.
+
+&&
+El operador lógico "y" evalua 2 o mas condiciones. El unico caso en el que tendremos un resultado verdadero es cuando todas las condiciones evaluadas sean verdaderas.
+
+||
+El operador lógico "o" evalua 2 o mas condiciones. El unico caso en el que tendremos un resultado falso, es cuando todas las condiciones evaluadas sean falsas. Basta con una condición verdadera para que el resultado de la evaluacion sea verdadero.
+
+!
+El operador lógico "no" se utiliza para invertir un valor de verdad, verdadero a falso y falso a verdadero. 

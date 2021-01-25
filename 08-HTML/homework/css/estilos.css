@@ -1,5 +1,12 @@
+body{
+  background-image: url("https://cnet4.cbsistatic.com/img/aJwxTu72AISsGqaTTPitmW1IJaI=/940x0/2018/12/27/8f54171a-6a25-4494-957b-ee2572951c88/heic1820b.jpg");
+}
+
 h1{
   color: red;
+}
+h3, h4{
+  color: white;
 }
 
 img{
@@ -11,10 +18,17 @@ img{
   width: 500px;
   background-color: grey;
   padding: 50px;
-  border: 10px dotted black;
+  border: 10px double black;
+  margin: auto;
+  /*align-items: center;*/
 }
 
 #spanId{
+  color: white;
   font-size: 18px;
   margin: 50px;
+}
+
+.divClass{
+  text-align: center;
 }
